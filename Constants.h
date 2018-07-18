@@ -1,0 +1,25 @@
+#pragma once
+
+#define MAIN_BOARD_X		1
+#define MAIN_BOARD_Y		1
+#define MAIN_BOARD_W		15
+#define MAIN_BOARD_H		20
+
+#define PREVIEW_BOARD_X		17
+#define PREVIEW_BOARD_Y		1
+#define PREVIEW_BOARD_W		6
+#define PREVIEW_BOARD_H		4
+
+#define FALLING_SHAPE_X		6
+#define FALLING_SHAPE_Y		0
+
+#define PREVIEW_SHAPE_X		1
+#define PREVIEW_SHAPE_Y		1
+
+#define FALLING_NORMAL_SPD	0.15f
+#define FALLING_FAST_SPD	0.05f
+
+#define KEYBOARD_ROTATE		32
+#define KEYBOARD_LEFT		75
+#define KEYBOARD_RIGHT		77
+#define KEYBOARD_DOWN		80
